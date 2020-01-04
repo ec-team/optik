@@ -1,0 +1,1 @@
+setting allow pop-up window di browser untuk menampilkan nota
